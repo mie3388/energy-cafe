@@ -121,7 +121,7 @@ iframe {
 /* NEWS
 ------------------------------- */
 #news {
-    background-image: url(../images/news.jpg);
+    background-image: url(./news.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -209,7 +209,7 @@ aside p {
 ------------------------------- */
 
 #menu {
-    background-image: url(../images/menu_top.png);
+    background-image: url(./menu_top.png);
     min-height: 100vh;
 }
 .menu-content {
@@ -241,7 +241,7 @@ aside p {
 /* CONTACT
 ------------------------------- */
 #contact {
-    background-image: url(../images/インテリア.jpg);
+    background-image: url(./contact.jpg);
     min-height: 100vh;
 }
 
