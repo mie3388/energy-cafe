@@ -62,7 +62,7 @@ img {
     background: #ffd711;
     color: rgb(97, 88, 78);
     border-radius: 5px;
-    padding: 8px 150px;
+    padding: 8px 145px;
 }
 .button:hover {
     background:#ffe554;
@@ -329,7 +329,7 @@ footer p {
 ------------------------------- */
 @media (max-width: 600px) {
     .page-title {
-        font-size: 2.5rem;
+        font-size: 3.5rem;
     }
     .page-header {
         flex-direction: column;
