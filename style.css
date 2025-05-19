@@ -210,7 +210,7 @@ aside p {
 
 #menu {
     background-image: url(./menu_top.png);
-    min-height: 80vh;
+    min-height: 85vh;
 }
 .menu-content {
     max-width: 1000px;
@@ -220,10 +220,10 @@ aside p {
     text-align: center;
 }
 .menu-content p {
-    font-size: 1.125rem;
+    font-size: 1.3rem;
     text-align: center;
     margin: 10px 0 0;
-    text-shadow: 2px 2px 1px #ffffff;
+    text-shadow: 1.5px 1.5px 1px #ffffff;
     color: rgb(0, 0, 0);
 }
 
