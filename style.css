@@ -210,7 +210,7 @@ aside p {
 
 #menu {
     background-image: url(./menu_top.png);
-    min-height: 100vh;
+    min-height: 80vh;
 }
 .menu-content {
     max-width: 1000px;
@@ -227,15 +227,20 @@ aside p {
     color: rgb(0, 0, 0);
 }
 
-
+#menu2 {
+  background-color: #ffe355;
+}
 
 .grid {
   display: grid;
   gap: 26px;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  margin-top: 6%;
-  margin-bottom: 50px;
+  padding-top: 6%;
+  padding-bottom: 6%;
+}
 
+.grid p {
+   background-color: #ffffff; 
 }
 
 /* CONTACT
